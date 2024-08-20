@@ -1,0 +1,2 @@
+data/warringer2003/piecewise_fit/logod_timepoints.csv filter=lfs diff=lfs merge=lfs -text
+data/warringer2003/piecewise_fit/logod_values.csv filter=lfs diff=lfs merge=lfs -text
