@@ -1,0 +1,12 @@
+jupyter==1.1.1
+matplotlib==3.9.4
+nbstripout==0.8.2
+numpy==2.0.2
+pandas==2.3.3
+papermill==2.6.0
+scikit-learn==1.6.1
+scipy==1.13.1
+seaborn==0.13.2
+statsmodels==0.14.6
+xarray==2024.7.0
+xlrd==2.0.2
