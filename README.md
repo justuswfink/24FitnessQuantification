@@ -34,4 +34,6 @@ The figures are created and saved from the Jupyter notebooks into an extra sub-f
 
 We include a Makefile that allows to run the same Jupyter notebook with many different settings based on a Python package called `papermill`. For example, we use this to simulate pairwise competitions with different initial mutant abundance and input trait variation. Check out the Makefile targets for these automated recipes. 
 
+## How to cite
 
+Fink JW, Manhart M. 2024. Quantifying microbial fitness in high-throughput experiments. eLife. 13:RP102635. https://doi.org/10.7554/eLife.102635.2
